@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Todolist using React,Redux & Express server.
+
+![todolist](https://user-images.githubusercontent.com/63094930/115726237-2ec9bd00-a3a0-11eb-8b17-9eb4f6e4f956.gif)
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
